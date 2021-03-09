@@ -41,6 +41,7 @@
     "@npmcli/promise-spawn": "^1.2.0",
     "@npmcli/run-script": "^1.8.2",
     "cacache": "^15.0.5",
+    "cache-directory": "^2.0.0",
     "chownr": "^2.0.0",
     "fs-minipass": "^2.1.0",
     "infer-owner": "^1.0.4",
